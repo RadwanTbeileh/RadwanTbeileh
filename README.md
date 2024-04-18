@@ -26,7 +26,7 @@
 🖥️ <lable>Workspace Setup</lable>  
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?RadwanTbeileh=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RadwanTbeileh=anuraghazra&show_icons=true&theme=radical)
   
 
     
