@@ -1,5 +1,6 @@
-### Hi there 👋
-
+  ### Hi there 👋
+<img align="right" alt="Coding" width="400" src="[add your link 
+  here](https://images.wallpapersden.com/image/download/i-love-coding-log_bW5taWiUmZqaraWkpJRobWllrWdpZWU.jpg)">
 🔭 I’m currently working to be a full-stack developer 
 
 
@@ -16,8 +17,7 @@
 Here are some ideas to get you started:
 
 
-<img align="right" alt="Coding" width="400" src="[add your link 
-  here](https://images.wallpapersden.com/image/download/i-love-coding-log_bW5taWiUmZqaraWkpJRobWllrWdpZWU.jpg)">
+
 -   on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
