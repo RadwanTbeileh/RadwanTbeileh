@@ -26,14 +26,20 @@
 🖥️ <lable>Workspace Setup</lable>  
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RadwanTbeileh=anuraghazra&show_icons=true&theme=radical)
+
+
+
   
 
-    
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->    
 <!--
-**RadwanTbeileh/RadwanTbeileh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RadwanTbeileh/=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RadwanTbeileh/=anuraghazra&show_icons=true&theme=radical)
+
 ![GitHub Profile Views Counter](https://user-images.githubusercontent.com/1849174/87816378-dfce8480-c86f-11ea-9ac0-2f7907e1d9d4.png)
-Here are some ideas to get you started:
+
 
 
 
