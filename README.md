@@ -6,7 +6,7 @@
 As a developer, I always love to learn more and more and face problems in a challenging way and win
 Technology has become almost everything, and the world is developing, and we must be with it
  </p>
-<label> 👩‍💻 About me </label>
+
 
 <p>🎮  Games • Anime • Code </p>
 <p>💻 Love Programming</p>
